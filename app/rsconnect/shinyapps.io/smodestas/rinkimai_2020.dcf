@@ -1,0 +1,12 @@
+name: rinkimai_2020
+title: rinkimai_2020
+username:
+account: smodestas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3453962
+bundleId: 4072747
+url: https://smodestas.shinyapps.io/rinkimai_2020/
+when: 1610119639.10813
+asMultiple: FALSE
+asStatic: FALSE
